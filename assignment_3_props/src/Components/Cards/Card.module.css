@@ -1,0 +1,26 @@
+.mainDiv{
+    box-shadow: 0 0 10px gray;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    display: flex;
+    gap: 30px;
+    
+}
+.imgStyle{
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+}
+.priceStyle{
+    text-align: end;
+    padding: 10px;
+    font-weight: bold;
+}
+.ratingStyle{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: green;
+}
